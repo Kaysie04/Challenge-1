@@ -10,15 +10,16 @@ The main motivation for this project was to create a more accessible webpage for
 
 ## Added Accesibility Attributes
 
-The following depicts two images where alt attributes were added, for greater accesibility. 
-    ![alt text](Develop/assets/images/Screen Shot 2022-05-07 at 6.43.04 PM.png)
+The following depicts two images where alt attributes were added for greater accesibility. 
+![alt text](assets/images/screenshot.png)
 
 
 ## Website
+https://kaysie04.github.io/Challenge-1/
 
 ## Contribution
 
-### (copyright) 2019 Horiseon Social Solution Services, Inc
+### &copy; 2019 Horiseon Social Solution Services, Inc
 
 
 
